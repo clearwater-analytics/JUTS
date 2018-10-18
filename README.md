@@ -24,3 +24,5 @@ EXEC juts.addCommandToScenario
 
 EXEC juts.RunScenarios
 ```
+
+See the [project Wiki](https://github.com/clearwater-analytics/JUTS/wiki) for more.
